@@ -27,7 +27,4 @@ npm i discord.js
 # Destek
 Herhangi bir sorunla karşılaşırsanız veya yardım almak isterseniz, [benimle iletişime](https://discord.com/users/337545269845688361) geçebilirsiniz.
 
-
-[![Discord Banner](https://api.weblutions.com/discord/invite/bdfd/)](https://discord.gg/bdfd)
-
 İyi kullanımlar.
